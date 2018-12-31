@@ -1,0 +1,7 @@
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\bin\Debug\ProfileLooker.exe.config
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\bin\Debug\ProfileLooker.exe
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\bin\Debug\ProfileLooker.pdb
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\obj\Debug\ProfileLooker.csproj.CoreCompileInputs.cache
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\obj\Debug\ProfileLooker.exe
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\obj\Debug\ProfileLooker.pdb
+C:\Users\Shade\source\repos\Series of  forgettable features\ProfileLooker\obj\Debug\ProfileLooker.csprojAssemblyReference.cache

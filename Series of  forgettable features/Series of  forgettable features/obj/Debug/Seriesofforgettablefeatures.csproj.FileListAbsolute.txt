@@ -1,0 +1,7 @@
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\obj\Debug\Seriesofforgettablefeatures.csprojAssemblyReference.cache
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\obj\Debug\Seriesofforgettablefeatures.csproj.CoreCompileInputs.cache
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\bin\Debug\Series of  forgettable features.exe.config
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\bin\Debug\Series of  forgettable features.exe
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\bin\Debug\Series of  forgettable features.pdb
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\obj\Debug\Series of  forgettable features.exe
+C:\Users\Shade\source\repos\Series of  forgettable features\Series of  forgettable features\obj\Debug\Series of  forgettable features.pdb
